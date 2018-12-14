@@ -5,6 +5,7 @@ Things I have learned over time, a reference for me and any who may stumble acro
 ## Categories
 
 * [Linux](#linux)
+* [VLC](#vlc)
 
 ## Linux
 
