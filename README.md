@@ -10,3 +10,6 @@ Things I have learned over time, a reference for me and any who may stumble acro
 
 * [Get a full list of Groups](linux/get-a-full-list-of-groups.md)
 * [List all members of a Group](linux/list-all-members-of-a-group.md)
+
+# VLC
+* [DVD is Taking Forever to Load in VLC](vlc/dvd-taking-forever-to-load-in-vlc.md)
