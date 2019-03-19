@@ -5,6 +5,7 @@ Things I have learned over time, a reference for me and any who may stumble acro
 ## Categories
 
 * [Linux](#linux)
+* [SQL](#sql)
 * [Unitrends](#unitrends)
 * [VLC](#vlc)
 * [VSS](#vss)
@@ -13,6 +14,10 @@ Things I have learned over time, a reference for me and any who may stumble acro
 
 * [Get a full list of Groups](linux/get-a-full-list-of-groups.md)
 * [List all members of a Group](linux/list-all-members-of-a-group.md)
+
+## SQL
+
+* [Find Database Files](sql/find-database-files.md)
 
 ## Unitrends
 
@@ -25,4 +30,3 @@ Things I have learned over time, a reference for me and any who may stumble acro
 ## VSS
 
 * [Completely Reset VSS Writers](vss/completely-reset-vss-writers.md)
-
